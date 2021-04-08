@@ -1,0 +1,17 @@
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.product{
+    display: flex;
+    margin: 0 auto;
+    width: 80%;
+}
+.product-img img{
+    width: 140px;
+    margin: 0 20px;
+}
